@@ -1,0 +1,9 @@
+{
+  "name": "angular-ui",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "angular-ui/src",
+  "prefix": "main-application",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
